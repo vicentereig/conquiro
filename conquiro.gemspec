@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Conquiro::VERSION
   spec.authors       = ["Vicente Reig Rincon de Arellano"]
   spec.email         = ["vicente.reig@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Simple interface to iTunes Search API}
+  spec.description   = ''
   spec.homepage      = ""
   spec.license       = "MIT"
 
