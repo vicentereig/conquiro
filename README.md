@@ -7,7 +7,7 @@ A Ruby client for [iTunes Search API](https://www.apple.com/itunes/affiliates/re
 ## Install
 
 ```ruby
-  gem 'conquiro', github: 'vicentereig/conquiro
+  gem 'conquiro', github: 'vicentereig/conquiro'
 ```
 
 ## Usage
