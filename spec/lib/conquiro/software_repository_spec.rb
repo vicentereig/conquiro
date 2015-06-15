@@ -9,6 +9,6 @@ describe Conquiro::SoftwareRepository, vcr: {match_requests_on: [:method, :uri]}
 
   it "should find two instances for gasapp"  do
     apps = repo.query(term: 'gasapp')
-    expect(apps.size).to eq(2)
+    expect(apps.size).to eq(1)
   end
 end
